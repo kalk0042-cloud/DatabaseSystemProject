@@ -12,4 +12,4 @@ Final Project Database Management Systems
 
 We are using GitHub Projects to organize and track our assignments.
 
-![GitHub Projects Board](project-board.png)
+[![GitHub Projects Board](project-board.png)](https://github.com/users/kalk0042-cloud/projects/5/settings)

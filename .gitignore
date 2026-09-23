@@ -1,1 +1,16 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+
+# Ignore OS-specific junk
+*.swp
+*.swo
 
